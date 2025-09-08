@@ -34,6 +34,7 @@ End
 
 
 ## Program:
+```cpp
 
 #include<iostream>
 using namespace std;
@@ -57,6 +58,7 @@ int main()
     a.Add(b1,b2,b3);
     return 0;
 }
+```
 
 ## Output:
 
