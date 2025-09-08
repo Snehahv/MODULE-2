@@ -49,6 +49,7 @@ End
 
 
 ## Program:
+```cpp
 #include<iostream>
 using namespace std;
 class Square {
@@ -83,7 +84,7 @@ int main()
     cout << "Total objects: " << Square::objCount;
     return 0;
 }
-
+```
 
 ## Output:
 <img width="1411" height="434" alt="image" src="https://github.com/user-attachments/assets/0fb4184d-2a3f-4f37-8dc7-d507372a0fdc" />
